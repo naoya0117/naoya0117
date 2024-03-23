@@ -1,5 +1,7 @@
-こんにちは
+
 # Skill
+これから頑張ろうと思います
+
 <img src="https://skillicons.dev/icons?i=git,html,css,windows,arch,vim,bash" />
 
 
