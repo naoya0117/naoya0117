@@ -2,7 +2,7 @@
 # Skill
 これから頑張ろうと思います
 
-<img src="https://skillicons.dev/icons?i=git,html,css,windows,arch,vim,bash" />
+<img src="https://skillicons.dev/icons?i=git,html,css,windows,linux,arch,vim,bash" />
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=naoya0117&&show_icons=true" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naoya0117&hide=Vim%20Script&langs_count=10&layout=compact" />
