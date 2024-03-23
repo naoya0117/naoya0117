@@ -1,9 +1,9 @@
 こんにちは
 # Skill
-- html/css
 - git
-- linux/wsl
+- linux
 - vim
+- html/css
 <!-- <img src="https://skillicons.dev/icons?i=git,html,css,windows,apple,linux,arch,vim" />-->
 
 
