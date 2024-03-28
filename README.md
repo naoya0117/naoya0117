@@ -6,8 +6,6 @@ webとlinuxに興味があります。
 
 <img src="https://skillicons.dev/icons?i=git,html,css,windows,linux,arch,vim" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naoya0117&hide=Vim%20Script&langs_count=3&layout=compact" />
-
 # Contact
 - [https://naoya0117.com](https://naoya0117.com)
 <!--
