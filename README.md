@@ -1,10 +1,10 @@
 # About
-学生です
+大阪の学生です
 
-webとlinuxに興味があります。
+linuxデスクトップいじりながらweb開発やってます
 # Skill
 
-<img src="https://skillicons.dev/icons?i=git,html,css,windows,linux,arch,vim" />
+<img src="https://skillicons.dev/icons?i=linux,arch,vim,docker,laravel,rails,react" />
 
 # Contact
 - [https://naoya0117.com](https://naoya0117.com)
