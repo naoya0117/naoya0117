@@ -1,7 +1,7 @@
 # About
 大阪の学生です
 
-linuxデスクトップいじりながらweb開発やってます
+linuxが得意です
 # Skill
 
 <img src="https://skillicons.dev/icons?i=linux,arch,vim,docker,laravel,rails,react" />
