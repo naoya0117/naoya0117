@@ -1,13 +1,9 @@
 # Profile
+
 ## About
-
-I'm a student engineer.
-I'm looking for a job.
-
-## Skill
-
-I'm learning web development skills.
-
+I'm a student studying engineering and currently seeking job opportunities.
+## Skills
+I'm developing my web development skills and expanding my technical expertise.
 ### Main
 
 - **Docker**
