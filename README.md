@@ -1,16 +1,29 @@
-# About
-大阪の学生です
+# Profile
+## About
 
-linuxが得意です
-# Skill
+I'm a student engineer.
+I'm looking for a job.
 
-<img src="https://skillicons.dev/icons?i=linux,arch,vim,docker,laravel,rails,react" />
+## Skill
 
-# Contact
-- [https://www.matuhasi.com](https://www.matuhasi.com)
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=naoya0117&&show_icons=true" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naoya0117&hide=Vim%20Script&langs_count=10&layout=compact" />
+I'm learning web development skills.
 
-<img src="https://github-profile-trophy.vercel.app/?username=naoya0117" />
--->
+### Main
 
+- **Docker**
+- **Linux**
+- Kubernetes
+- Laravel
+- Next.js / React.js
+- MySQL
+
+### Learning
+
+- AWS
+- Go
+- Cloudflare
+
+## Contact
+
+- Email      : github@matuhasi.com
+- Portfolio  : https://www.matuhasi.com
