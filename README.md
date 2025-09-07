@@ -23,5 +23,5 @@ I'm developing my web development skills and expanding my technical expertise.
 
 - Email      : github@matuhasi.com
 - Portfolio  : https://www.matuhasi.com
-- GitHub(Private) : https://github.com/naoya0117
-- GitHub(Work) : https://github.com/n-matsuhashi
+- GitHub(For private) : https://github.com/naoya0117
+- GitHub(For work) : https://github.com/n-matsuhashi
