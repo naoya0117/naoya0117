@@ -12,12 +12,12 @@ I'm developing my web development skills and expanding my technical expertise.
 - Laravel
 - Next.js / React.js
 - MySQL
+- AWS(cdk, lambda, etc...)
+- Cloudflare
 
 ### Learning
 
-- AWS
 - Go
-- Cloudflare
 
 ## Contact
 
